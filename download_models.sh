@@ -1,4 +1,4 @@
-#!/bin/bas
+#!/bin/bash
 
 # Formal to Informal Styletransfer
 mkdir formal_to_informal_styletransfer && cd formal_to_informal_styletransfer
